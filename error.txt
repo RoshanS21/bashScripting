@@ -1,0 +1,10 @@
+
+Command 'user' not found, did you mean:
+
+  command 'users' from deb coreutils (8.30-3ubuntu2)
+  command 'iuser' from deb ipmiutil (3.1.5-1)
+  command 'userv' from deb userv (1.2.0)
+  command 'fuser' from deb psmisc (23.3-1)
+
+Try: sudo apt install <deb name>
+
