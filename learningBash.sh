@@ -1,6 +1,7 @@
+# Roshan Shrestha
 #!/usr/bin/bash
 # This is a comment
-# The one on Line 1 is a shebang
+# The one on Line 2 is a shebang
 
 function NewLine {
     echo " "
